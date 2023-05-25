@@ -1,0 +1,4 @@
+.builder.tf
+.for loop.txt
+.terraform.lock.hcl
+.terraform
